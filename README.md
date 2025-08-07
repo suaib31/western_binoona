@@ -1,5 +1,5 @@
-# western_binoona
-western binoona group
+# western_bainoona
+western bainoona group
 site url: https://westernbainoonagroup.com/
 this website is based on construcion, infracture and so on, its located in abu dhabi, uae
 iam here developing and desiging pages using Wordpress
